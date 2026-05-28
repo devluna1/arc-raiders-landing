@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "title": "ALÍSTATE. RESISTE.",
+    "subtitle": "Un mundo devastado. Máquinas letales. Una sola opción: sobrevivir.",
+    "cta": "JUGAR AHORA",
+    "cta_secondary": "VER TRÁILER",
+    "scroll": "DESCUBRE MÁS"
+  },
+  "gameplay": {
+    "title": "UNA AVENTURA CON EXTRACCIONES",
+    "subtitle": "ARC Raiders mezcla la tensión de los juegos de extracción con los entornos atmosféricos de los juegos de aventuras.",
+    "features": {
+      "extraction": {
+        "title": "Extracción",
+        "description": "Adéntrate en la superficie, saquea recursos valiosos y extráelos antes de que las máquinas te encuentren."
+      },
+      "world": {
+        "title": "Mundo Inmersivo",
+        "description": "Un mundo pos-apocalíptico construido con Unreal Engine 5, donde la historia de Italia se mezcla con infraestructuras espaciales."
+      },
+      "customization": {
+        "title": "Personalización",
+        "description": "Moldea a tu Raider con libertad total. Identidad, estilo de juego y equipamiento a tu manera."
+      },
+      "crossplay": {
+        "title": "Multiplataforma",
+        "description": "Juega con tu pelotón en PlayStation, Xbox y PC. Conecta, colabora y compite sin importar dónde estés."
+      }
+    }
+  },
+  "machines": {
+    "title": "MÁQUINAS ARC",
+    "subtitle": "Amenazas mecánicas que dominan la superficie. Conoce a tu enemigo.",
+    "threat": "NIVEL DE AMENAZA",
+    "weakness": "DEBILIDAD",
+    "analysis": "ANÁLISIS DE AMENAZA",
+    "list": {
+      "drone": {
+        "name": "Drone Enjambre",
+        "threat": "MEDIA",
+        "weakness": "Fuego concentrado",
+        "description": "Pequeños pero letales. Atacan en grupo y son difíciles de esquivar."
+      },
+      "titan": {
+        "name": "Titán Mecánico",
+        "threat": "CRÍTICA",
+        "weakness": "Núcleo expuesto",
+        "description": "Gigantes de acero que destruyen todo en su camino. Evita su mirada."
+      },
+      "turbine": {
+        "name": "ARC Turbina",
+        "threat": "ALTA",
+        "weakness": "Partes expuestas",
+        "description": "Opera en aire y tierra. Recolecta particulas y es altamente peligrosa."
+      },
+      "scout": {
+        "name": "Explorador ARC",
+        "threat": "BAJA",
+        "weakness": "Blindaje ligero",
+        "description": "Reconocimiento y vigilancia. Si te detecta, vendrán más."
+      }
+    }
+  },
+  "lore": {
+    "title": "AÑO 2180",
+    "subtitle": "LA RESISTENCIA COMIENZA EN ESPERANZA",
+    "story": "En el Rust Belt, después de una década de lucha intensa, la primera ola de ARC fue contenida—pero no por mucho tiempo. Cuando ARC regresó con fuerza, los sobrevivientes fueron forzados bajo tierra, hacia la comunidad improvisada de Speranza. Pero la supervivencia no es fácil. Los recursos son limitados, los conflictos son constantes, y la competencia por sobrevivir es feroz.",
+    "quote": "La verdadera supervivencia significa arriesgar la superficie para recuperar suministros.",
+    "hint": "¿Qué estás dispuesto a arriesgar para conseguir lo que quieres?"
+  },
+  "maps": {
+    "title": "CONDICIONES DEL MAPA",
+    "subtitle": "El mundo cambia. Adaptate o muere.",
+    "active": "ACTIVO AHORA",
+    "ends": "FINALIZA EN",
+    "condition": "Condición"
+  },
+  "social": {
+    "title": "ÚNETE A LA RESISTENCIA",
+    "subtitle": "Conecta con miles de Raiders en todo el mundo.",
+    "discord": "Discord",
+    "twitter": "Twitter / X",
+    "youtube": "YouTube",
+    "instagram": "Instagram",
+    "tiktok": "TikTok"
+  },
+  "platforms": {
+    "title": "DISPONIBLE AHORA",
+    "subtitle": "Elige tu plataforma y únete a la lucha.",
+    "buy": "COMPRAR AHORA",
+    "platforms_list": {
+      "steam": "Steam",
+      "epic": "Epic Games Store",
+      "ps5": "PlayStation 5",
+      "xbox": "Xbox Series X|S",
+      "geforce": "GeForce NOW"
+    }
+  },
+  "nav": {
+    "about": "Acerca de",
+    "news": "Noticias",
+    "community": "Comunidad",
+    "buy": "Comprar"
+  },
+  "footer": {
+    "rights": "© 2026 Embark Studios AB. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Uso",
+    "cookies": "Política de Cookies"
+  }
+}

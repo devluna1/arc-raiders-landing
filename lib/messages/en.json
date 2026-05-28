@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "title": "ENLIST. RESIST.",
+    "subtitle": "A devastated world. Lethal machines. One option: survive.",
+    "cta": "PLAY NOW",
+    "cta_secondary": "WATCH TRAILER",
+    "scroll": "DISCOVER MORE"
+  },
+  "gameplay": {
+    "title": "AN EXTRACTION ADVENTURE",
+    "subtitle": "ARC Raiders blends the tension from extraction shooters with atmospheric adventure settings.",
+    "features": {
+      "extraction": {
+        "title": "Extraction",
+        "description": "Venture onto the surface, scavenge valuable resources, and extract before the machines find you."
+      },
+      "world": {
+        "title": "Immersive World",
+        "description": "A post-apocalyptic world built with Unreal Engine 5, where Italy's history blends with space infrastructure."
+      },
+      "customization": {
+        "title": "Customization",
+        "description": "Shape your Raider with total freedom. Identity, playstyle, and equipment your way."
+      },
+      "crossplay": {
+        "title": "Cross-Platform",
+        "description": "Play with your squad on PlayStation, Xbox, and PC. Connect, collaborate, and compete anywhere."
+      }
+    }
+  },
+  "machines": {
+    "title": "ARC MACHINES",
+    "subtitle": "Lethal mechanical threats ruling the surface. Know your enemy.",
+    "threat": "THREAT LEVEL",
+    "weakness": "WEAKNESS",
+    "analysis": "THREAT ANALYSIS",
+    "list": {
+      "drone": {
+        "name": "Swarm Drone",
+        "threat": "MEDIUM",
+        "weakness": "Concentrated fire",
+        "description": "Small but lethal. Attack in groups and are hard to dodge."
+      },
+      "titan": {
+        "name": "Mechanical Titan",
+        "threat": "CRITICAL",
+        "weakness": "Exposed core",
+        "description": "Steel giants that destroy everything in their path. Avoid their gaze."
+      },
+      "turbine": {
+        "name": "ARC Turbine",
+        "threat": "HIGH",
+        "weakness": "Exposed parts",
+        "description": "Operates in air and ground. Collects particles and is highly dangerous."
+      },
+      "scout": {
+        "name": "ARC Scout",
+        "threat": "LOW",
+        "weakness": "Light armor",
+        "description": "Reconnaissance and surveillance. If it detects you, more will come."
+      }
+    }
+  },
+  "lore": {
+    "title": "YEAR 2180",
+    "subtitle": "THE RESISTANCE BEGINS IN SPERANZA",
+    "story": "In the Rust Belt, after a decade of hard fighting, the first wave of ARC was eventually held back—but not for long. Within years, ARC returned with a vengeance. Survivors were forced underground, into the makeshift community of Speranza. But survival is no easy task. Resources are limited, conflicts are endless, and competition for survival is fierce.",
+    "quote": "True survival means risking the surface to recover supplies.",
+    "hint": "What are you willing to risk to get what you want?"
+  },
+  "maps": {
+    "title": "MAP CONDITIONS",
+    "subtitle": "The world changes. Adapt or die.",
+    "active": "ACTIVE NOW",
+    "ends": "ENDS IN",
+    "condition": "Condition"
+  },
+  "social": {
+    "title": "JOIN THE RESISTANCE",
+    "subtitle": "Connect with thousands of Raiders worldwide.",
+    "discord": "Discord",
+    "twitter": "Twitter / X",
+    "youtube": "YouTube",
+    "instagram": "Instagram",
+    "tiktok": "TikTok"
+  },
+  "platforms": {
+    "title": "AVAILABLE NOW",
+    "subtitle": "Choose your platform and join the fight.",
+    "buy": "BUY NOW",
+    "platforms_list": {
+      "steam": "Steam",
+      "epic": "Epic Games Store",
+      "ps5": "PlayStation 5",
+      "xbox": "Xbox Series X|S",
+      "geforce": "GeForce NOW"
+    }
+  },
+  "nav": {
+    "about": "About",
+    "news": "News",
+    "community": "Community",
+    "buy": "Buy"
+  },
+  "footer": {
+    "rights": "© 2026 Embark Studios AB. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "cookies": "Cookie Policy"
+  }
+}
